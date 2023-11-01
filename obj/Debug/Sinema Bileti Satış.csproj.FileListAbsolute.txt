@@ -1,0 +1,20 @@
+C:\Users\bekoo\source\repos\Sinema Bileti Satış\Sinema Bileti Satış\bin\Debug\Sinema Bileti Satış.exe.config
+C:\Users\bekoo\source\repos\Sinema Bileti Satış\Sinema Bileti Satış\bin\Debug\Sinema Bileti Satış.exe
+C:\Users\bekoo\source\repos\Sinema Bileti Satış\Sinema Bileti Satış\bin\Debug\Sinema Bileti Satış.pdb
+C:\Users\bekoo\source\repos\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema Bileti Satış.csproj.AssemblyReference.cache
+C:\Users\bekoo\source\repos\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema_Bileti_Satış.Form1.resources
+C:\Users\bekoo\source\repos\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema_Bileti_Satış.Properties.Resources.resources
+C:\Users\bekoo\source\repos\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema Bileti Satış.csproj.GenerateResource.cache
+C:\Users\bekoo\source\repos\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema Bileti Satış.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\source\repos\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema Bileti Satış.exe
+C:\Users\bekoo\source\repos\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema Bileti Satış.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sinema Bileti Satış\Sinema Bileti Satış\bin\Debug\Sinema Bileti Satış.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sinema Bileti Satış\Sinema Bileti Satış\bin\Debug\Sinema Bileti Satış.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sinema Bileti Satış\Sinema Bileti Satış\bin\Debug\Sinema Bileti Satış.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema Bileti Satış.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema_Bileti_Satış.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema_Bileti_Satış.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema Bileti Satış.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema Bileti Satış.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema Bileti Satış.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Sinema Bileti Satış\Sinema Bileti Satış\obj\Debug\Sinema Bileti Satış.pdb
